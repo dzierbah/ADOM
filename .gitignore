@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.egg-info/
+dist/
+build/
+.env
+venv/
+env/
+*.onnx
+*.pth
+*.pt
+.DS_Store
+Thumbs.db
+create_short_pres.js
+create_long_pres.js
