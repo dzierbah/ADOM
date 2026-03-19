@@ -1,0 +1,6 @@
+level,gamma,precision_no_eq,recall_no_eq,f1_no_eq,precision_eq,recall_eq,f1_eq
+normalne (gamma=1.0),1.0,0.4667,0.4,0.4222,0.0,0.0,0.0
+lekko ciemne (gamma=1.5),1.5,0.4667,0.4333,0.4444,0.0,0.0,0.0
+ciemne (gamma=2.0),2.0,0.4667,0.4,0.4222,0.8,0.7,0.7333
+bardzo ciemne (gamma=3.0),3.0,0.3333,0.2667,0.2889,0.5333,0.4,0.4444
+ekstremalnie ciemne (gamma=5.0),5.0,0.0667,0.0333,0.0444,0.1333,0.0667,0.0889
